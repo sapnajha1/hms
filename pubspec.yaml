@@ -30,10 +30,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  hmssdk_flutter: ^1.9.0
+#  hmssdk_flutter: ^1.9.0
   permission_handler: ^11.0.1
   http: ^1.1.0
   dart_jsonwebtoken: ^2.12.2
+  hms_room_kit: ^1.1.6
+  flutter_callkit_incoming: ^2.5.2
+  firebase_core: ^2.27.0
+  uuid: ^4.2.2
+  firebase_messaging: ^14.7.4
 
 
 dev_dependencies:
